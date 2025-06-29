@@ -91,6 +91,8 @@ python 2dplot.py
 - 設定情報（更新レート、解像度、カラーマップ等）
 - リアルタイム極座標プロット（統計情報付き）
 
+<img width="844" alt="2dplot" src="https://github.com/user-attachments/assets/e5503995-fee8-42d9-a6ae-c30bb8cff857" />
+
 ### 3D表示の実行
 
 ```bash
